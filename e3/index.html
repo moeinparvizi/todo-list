@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <title>TODO List page</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link href="css/style.css" rel="stylesheet">
+  <!-- tailwind css CDN -->
+  <script src="https://cdn.tailwindcss.com"></script>
+  <!-- bootstrap icons -->
+  <link rel="stylesheet" href="assets/icons/bootstrap-icons.css">
+  <!-- sass output -->
+  <link rel="stylesheet" href="assets/styles/master.css">
+</head>
+
+<body>
+  <div class="todo mx-auto my-[50px] w-[500px] flex flex-col items-center">
+    <div class="todo-title my-[20px]">
+      <h1>TODO List</h1>
+    </div>
+    <div class="todo-header relative flex justify-between w-[450px] my-[10px]">
+      <input placeholder="add your task" type="text" id="input"
+        class="absolute pl-[5px] w-[440px] rounded-[20px] h-[40px]">
+      <button class="absolute z-20 left-[90%] rounded-[20px] w-[50px] h-[40px]" type="button" id="bt"><i
+          class="bi bi-plus-lg"></i></button>
+    </div>
+    <ul class="todo-list w-[450px] mb-[20px] mt-[40px]" id="ul">
+    </ul>
+
+  </div>
+
+  <script src="assets/js/script.js"></script>
+</body>
+<!-- https://github.com/moeinparvizi -->
+
+</html>

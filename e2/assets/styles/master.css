@@ -1,0 +1,22 @@
+.main-content {
+  border: 1px solid gray;
+}
+
+a {
+  color: blue;
+}
+
+.active {
+  border-top: 1px solid gray;
+  border-left: 1px solid gray;
+  border-right: 1px solid gray;
+  border-bottom: 3px solid white;
+  color: gray;
+  z-index: 10;
+}
+
+.contentive {
+  border-top: 1px solid gray;
+}
+
+/*# sourceMappingURL=master.css.map */
