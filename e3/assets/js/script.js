@@ -17,6 +17,7 @@ bt.addEventListener('click', () => {
         </li>
     `
     inp.value = ''
+    inp.focus()
   } else {
     inp.style.border = '3px solid red'
   }
