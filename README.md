@@ -91,7 +91,7 @@ you can change colors to all files in master.scss > colors comment
 * [![html][html5]][HTML5]
 * [![CSS3][CSS3]][CSS3]
 * [![SASS][SASS]][SASS]
-* [![TailwindCSS][TailwindCSS]
+* ![TailwindCSS][TailwindCSS]
 * [![JavaScript][JavaScript]][JavaScript]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
