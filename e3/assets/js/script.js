@@ -11,7 +11,7 @@ bt.addEventListener('click', () => {
         <li class="flex justify-between my-[5px] list-none">
           <div class="row cursor-pointer" id="check">
             <i onclick="checked(event)" class="bi bi-circle"></i>
-            <a href="#">${values}</a>
+            <a href="#" contenteditable>${values}</a>
           </div>
           <i id="close" onclick="removeLi(event)" class="bi bi-x cursor-pointer"></i>
         </li>
