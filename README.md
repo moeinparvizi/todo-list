@@ -23,14 +23,14 @@ moein parvizi
   <p align="center">
     You can get more information from my todo list and some practices js here
     <br />
-    <a href="https://github.com/moeinparvizi/js-simple-practices"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/moeinparvizi/todo-list"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://moeinparvizi.github.io/js-simple-practices/">View Demo</a>
+    <a href="https://moeinparvizi.github.io/todo-list/">View Demo</a>
     ·
-    <a href="https://github.com/moeinparvizi/js-simple-practices/issues">Report Bug</a>
+    <a href="https://github.com/moeinparvizi/todo-list/issues">Report Bug</a>
     ·
-    <a href="https://github.com/moeinparvizi/js-simple-practices/issues">Request Feature</a>
+    <a href="https://github.com/moeinparvizi/todo-list/issues">Request Feature</a>
   </p>
 </div>
 
@@ -57,7 +57,7 @@ moein parvizi
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![photo_2023-08-25_19-40-45](https://github.com/moeinparvizi/js-simple-practices/assets/38692466/4720dffc-9dcb-4735-84d7-c11c963d8a5b)
+![photo_2023-08-25_19-40-45](https://github.com/moeinparvizi/todo-list/assets/38692466/4720dffc-9dcb-4735-84d7-c11c963d8a5b)
 
 Hints :
 * 3 practices code
@@ -105,7 +105,7 @@ Contributions are what make the open source community such an amazing place to l
 
 If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
 Don't forget to give the project a star! Thanks again!
-[contributors-url]: https://github.com/moeinparvizi/js-simple-practices/graphs/contributors
+[contributors-url]: https://github.com/moeinparvizi/todo-list/graphs/contributors
 
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
@@ -138,13 +138,13 @@ Project Link: [personal website](https://moeinparvizi.github.io/personal-website
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/moeinparvizi/js-simple-practices/graphs/contributors
+[contributors-url]: https://github.com/moeinparvizi/todo-list/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/moeinparvizi/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/moeinparvizi/js-simple-practices/forks
+[forks-url]: https://github.com/moeinparvizi/todo-list/forks
 [stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
 [stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
 [issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/moeinparvizi/js-simple-practices/issues
+[issues-url]: https://github.com/moeinparvizi/todo-list/issues
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
